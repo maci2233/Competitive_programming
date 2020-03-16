@@ -1,0 +1,24 @@
+----- PRUEBA DE RACHAS -----
+
+Valor Crítico Obtenido = 0.10001041395472751
+Valor de la Tabla = 1.959963984540054
+¿¿ 0.10001041395472751 > 1.959963984540054 ?? NO, por lo tanto se RECHAZA
+
+----- PRUEBA DE Kolmogorov_Smirnov-----
+
+Da = 0.2940755433833763
+
+D = 0.8799999999999999
+
+Si el valor estadístico D > D, la muestra es rechazada, por lo tanto =
+
+La hipotesis es rechazada
+
+ ----- PRUEBA DE Chi Cuadrada-----
+
+Resultados de Prueba Chi Cuadrada = 100.0 
+
+Resultados de Tabla Chi Cuadrada = 4.1132684819520895 
+
+Si el valor de la prueba es menor que el valor de la tabla la hipotesis es aceptada, por lo tanto: La hipotesis es rechazada 
+
